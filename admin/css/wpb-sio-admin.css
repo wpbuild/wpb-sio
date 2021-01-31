@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wpb-sio {background: floralwhite;margin: -20px;padding: 20px;}
+.wpb-sio h2 {font-size:28px;margin: 0;margin-top: 1em;}
+.wpb-sio h3 {margin: 0;margin-top: 1em;}
+.wpb-sio hr {border: 0;border-top: 2px solid #ddd;border-bottom: 1px solid #fafafa;margin: 0;}
+.wpb-sio .form-table td {margin-bottom: 9px;padding: 0px 10px;line-height: 1.2;vertical-align: middle;}
